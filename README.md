@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Silviano Gonçalves
-- 👀 I’m Software Engineer based in Angola and I’m passionate about solving problems through programming.
-- 💞️ Currently I have been using mainly C# and php languages.
+- 💞️ I’m Software Engineer based in Angola and I’m passionate about solving problems through programming.
+- 👀 Currently I have been using mainly C# and php languages.
 - 📫 Lets talk about something related to software solutions: geral@silvianogoncalves.com
 
 <!---
