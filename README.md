@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Silviano Gonçalves
 - 💞️ I’m Software Engineer based in Angola and I’m passionate about solving problems through programming.
-- 👀 Currently I have been working mainly with C#, .Net, Angular and Wordpress.
+- 👀 Currently I have been working mainly with C#, .Net, .Net Core, Angular, Ionic.
 - 📫 Lets talk about something related to software solutions: geral@silvianogoncalves.com
 
 <!---
